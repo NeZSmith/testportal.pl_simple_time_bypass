@@ -5,7 +5,7 @@
 Simple script written in JS will allow you to set unlimited time on your exams
 `setInterval(() => {window.startTime = new Date().getTime()},0);`
 Paste this to your browser console or use Tempermonkey/Violentmonkey
-***exemplary Violentmonkey config***
+- ***exemplary Violentmonkey config***
 ```
 // ==UserScript==
 // @name         Testportal simple time bypass
